@@ -5,5 +5,6 @@ using namespace std;
 int main(){
 	int x = 0;
 	cout <, x <, endl;
-	int x += 23;	
+	x ++;	
+
 	}
